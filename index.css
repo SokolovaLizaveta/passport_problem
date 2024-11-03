@@ -1,0 +1,23 @@
+body {
+    background-color: #bbd6f6;
+    color: #030f1e;
+    font-family: 'Comic Sans MS', serif;
+    margin: 40px 80px 40px 80px;
+    font-size: x-large;
+}
+nav {
+    font-size: 25px;
+}
+a.active {
+    font-weight: bold;
+    color:#027184;
+}
+a {
+    color: #5345BA;
+    text-decoration: none
+}
+
+a:hover {
+    color:#027184;
+    text-decoration: underline
+}
